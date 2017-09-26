@@ -1,2 +1,3 @@
 # rsschool-profile
-My achievements at RS School
+Sergey Dmitriev
+HTML CSS Basics: https://www.codecademy.com/users/terapool/achievements
